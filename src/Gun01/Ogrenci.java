@@ -10,5 +10,6 @@ public class Ogrenci {
 
 
         System.out.println("amet1");
+        System.out.println("dünya1");
     }
 }
